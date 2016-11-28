@@ -1,0 +1,30 @@
+{
+  "name": "bubble_pop",
+  "version": "1.0.0",
+  "description": "game that encourages people to get out of their bubble",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elanalynn/bubble_pop.git"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "social-commentary"
+  ],
+  "author": "Elana Kopelevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elanalynn/bubble_pop/issues"
+  },
+  "homepage": "https://github.com/elanalynn/bubble_pop#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "knex": "^0.12.6",
+    "pg": "^6.1.0",
+    "phaser": "^2.6.2"
+  }
+}
